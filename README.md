@@ -1,0 +1,1 @@
+I developed the "Confidential Text Generating Site," a secure platform for text encryption and decryption. It supports basic and advanced algorithms, including custom encryption and a product cipher for layered protection.
